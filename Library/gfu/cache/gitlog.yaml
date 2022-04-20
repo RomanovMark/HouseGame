@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2022-04-20T13:10:11.681+03:00
+  initializedAtString: 2022-04-20T13:10:07.735+03:00
+  log:
+  - commitID: 449689fa2619bfb300b326f0ca1f689788aa164d
+    mergeA: 
+    mergeB: 
+    authorName: Demonick
+    authorEmail: kolyan20022002@gmail.com
+    commitEmail: kolyan20022002@gmail.com
+    commitName: Demonick
+    summary: Initial commit
+    description: 
+    timeString: 2022-04-07T12:33:13.000+03:00
+    commitTimeString: 2022-04-07T12:33:13.000+03:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Unity\RakProj\Rakennusprojektti\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Unity\RakProj\Rakennusprojektti\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Unity\RakProj\Rakennusprojektti\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
